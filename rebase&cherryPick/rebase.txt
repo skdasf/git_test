@@ -5,3 +5,5 @@
 #rebase 2  测试rebase 是否检测不同的冲突
 
 #rebase 3: 测试该文件是否在rebase merge
+
+# rebae 4 ： 变基操作
