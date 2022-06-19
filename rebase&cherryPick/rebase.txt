@@ -2,4 +2,6 @@
 
 ## test
 # rebase1 将本分支的提交强制合并到另外一个分支
-#rebase 2
+#rebase 2  测试rebase 是否检测不同的冲突
+
+#rebase 3: 测试该文件是否在rebase merge
