@@ -7,3 +7,8 @@
 #rebase 3: 测试该文件是否在rebase merge
 
 # rebae 4 ： 变基操作
+
+## rebase5： 合并提交信息
+## rebase6： 合并提交信息
+## rebase7： 合并提交信息
+## rebase8:  合并提交信息
